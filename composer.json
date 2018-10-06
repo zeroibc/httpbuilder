@@ -1,0 +1,19 @@
+{
+    "name": "ethansmart/httpbuilder",
+    "description": "Http Client Builder",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ethan",
+            "email": "roancsu@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ethansmart\\HttpBuilder\\": "src/"
+        }
+    }
+}
