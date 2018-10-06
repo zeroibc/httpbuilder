@@ -66,3 +66,6 @@ return $this->client
     ->Put($data); // Delete($data)
 
 ```
+
+### 扩展
+文件上传
