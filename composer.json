@@ -1,14 +1,22 @@
 {
     "name": "ethansmart/httpbuilder",
-    "description": "Http Client Builder",
     "type": "library",
     "license": "MIT",
+    "keywords": ["HttpClient","curl"],
+    "version": "1.0.0",
+    "description": "PHP Http Client Builder",
     "authors": [
         {
             "name": "ethan",
-            "email": "roancsu@163.com"
+            "email": "roancsu@163.com",
+            "homepage": "https://github.com/roancsu"
         }
     ],
+
+    "support": {
+        "email":    "roancsu@163.com"
+    },
+
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
